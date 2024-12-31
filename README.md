@@ -29,7 +29,7 @@ Winway is a spoof casino game designed for entertainment and educational purpose
 1. Clone the repository:
 
    ```bash
-   git clone <[repository_url](https://github.com/PatelAbhay550/winway-spoof.git)>
+   git clone [repository_url](https://github.com/PatelAbhay550/winway-spoof.git)
    ```
 
 2. Navigate to the project directory:
